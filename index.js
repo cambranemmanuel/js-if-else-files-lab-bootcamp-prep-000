@@ -1,8 +1,9 @@
-var name = "Joe"
-var height = "74"
+var name = "ASthpn"
+var height = "7"
 
 
 // Don't worry about this
 module.exports = { name, height
 }
+
 
